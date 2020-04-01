@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom: none;">📦🚀 semantic-release</h1>
+<h1 align="center" style="border-bottom: none;">📦🚀 semantic-release without `git notes` </h1>
 <h3 align="center">Fully automated version management and package publishing</h3>
 <p align="center">
   <a href="https://spectrum.chat/semantic-release">
